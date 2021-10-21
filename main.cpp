@@ -13,7 +13,7 @@ void Interface()
 {
     int mode;
     bool flag = true;
-    string modes = "1 mode: Create calendar;  2 mode: Test program; 3 mode: Exit";
+    string modes = "First mode: Create calendar;  Second mode: Test program; Third mode: Exit";
     while (flag)
     {
         cout << "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" << endl;
