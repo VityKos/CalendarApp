@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/viktor/CLionProjects/CalendarApp_ProcedurEdition/Headers/head.h
+
+/Users/viktor/CLionProjects/CalendarApp_ProcedurEdition/main.cpp
+iostream
+-
+string
+-
+Headers/head.h
+/Users/viktor/CLionProjects/CalendarApp_ProcedurEdition/Headers/head.h
+
