@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/viktor/CLionProjects/CalendarApp_ProcedurEdition/Headers/head.h
+/Users/viktor/Documents/GitHub/CalendarApp/head.h
 
-/Users/viktor/CLionProjects/CalendarApp_ProcedurEdition/main.cpp
+/Users/viktor/Documents/GitHub/CalendarApp/main.cpp
 iostream
 -
 string
 -
-Headers/head.h
-/Users/viktor/CLionProjects/CalendarApp_ProcedurEdition/Headers/head.h
+head.h
+/Users/viktor/Documents/GitHub/CalendarApp/head.h
 
